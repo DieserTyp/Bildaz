@@ -49,7 +49,7 @@
             </div>
             <div class="row" style="position: relative;height: 160px;">
                 <div class="col-md-3"><img src="" alt="Bild5"/></div>
-                <div class="col-md-3"><img src="" alt="Bild67"/></div>
+                <div class="col-md-3"><img src="" alt="Bild6"/></div>
                 <div class="col-md-3"><img src="" alt="Bild7"/></div>
                 <div class="col-md-3"><img src="" alt="Bild8"/></div>
             </div>
